@@ -1,0 +1,1042 @@
+{
+	"folder_history":
+	[
+		"/home/vishnu/Dropbox/Android/GeorgiaChildCare",
+		"/home/vishnu/Downloads",
+		"/home/vishnu/Dropbox/Android"
+	],
+	"last_window_id": 6,
+	"settings":
+	{
+		"new_window_height": 879.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"find",
+						"findViewById"
+					],
+					[
+						"confi",
+						"confirmPasswordInput"
+					],
+					[
+						"pass",
+						"passwordInput"
+					]
+				]
+			},
+			"build_system": "Packages/sublime-android/Android.sublime-build",
+			"command_palette":
+			{
+				"height": 120.0,
+				"selected_items":
+				[
+					[
+						":q",
+						":q - quit"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":case",
+						"Convert Case: Upper Case"
+					],
+					[
+						":cas",
+						"Convert Case: Upper Case"
+					],
+					[
+						":ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"or d b",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"origami pan wi fi",
+						"Origami: Create Pane with File Above"
+					],
+					[
+						"or de be",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"or de le",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"or le",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"or mv be",
+						"Origami: Move File to Pane Below"
+					],
+					[
+						"ori",
+						"Origami: Create Pane Below"
+					],
+					[
+						"BROW",
+						"Preferences: Browse Packages"
+					],
+					[
+						":Q",
+						"Bracket Highlighter: Swap Quotes"
+					],
+					[
+						"or de ri",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"orig des lef",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"syn jso",
+						"Set Syntax: JSON"
+					],
+					[
+						":iden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":inst",
+						"Package Control: Install Package"
+					],
+					[
+						"or mo be",
+						"Origami: Move File to Pane Below"
+					],
+					[
+						"ori cr bel",
+						"Origami: Create Pane Below"
+					],
+					[
+						":jaa",
+						"Set Syntax: Java"
+					],
+					[
+						":com",
+						"Git: Quick Commit"
+					],
+					[
+						":comm",
+						"Git: Commit"
+					],
+					[
+						":close",
+						"File: Close All"
+					],
+					[
+						"ins	",
+						"Package Control: Install Package"
+					],
+					[
+						"orig mov ri",
+						"Origami: Move File to Pane on the Right"
+					],
+					[
+						"orig cr righ",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ori mo rig",
+						"Origami: Move File to Pane on the Right"
+					],
+					[
+						":inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":default",
+						"Preferences: Settings - Default"
+					],
+					[
+						":user",
+						"Preferences: Settings - User"
+					],
+					[
+						":rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Vintage.sublime-commands",
+				"/home/vishnu/.config/sublime-text-2/# run_multiple_commands.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/vishnu/Dropbox/Simmons/Resume-RyanEmmettSimmons.txt",
+				"/home/vishnu/qcc.html",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/vintage_commands.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/vintage.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Default.sublime-keymap",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Default (Linux).sublime-keymap",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/AndroidManifest.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/values/strings.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java",
+				"/home/vishnu/Downloads/raw.txt",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/data.json",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_main.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/values/id.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/experience_fragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/loginfragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/LoginActivity.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/AeSimpleSHA1.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/MainActivity.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/ChildrenSelectedListener.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_login.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/personal_fragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_create_account.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/Password.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/GetLoginAcct.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/PostNewAcct.java",
+				"/home/vishnu/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/vishnu/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/vishnu/sio_test/app.js",
+				"/home/vishnu/sio_test/index.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"EXPERIENCE",
+					"info",
+					"i",
+					"Prov.",
+					"Sher",
+					"Preferences"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Prov"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 102.0
+			},
+			"output.git":
+			{
+				"height": 102.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"cre",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"stin",
+						"res/values/strings.xml"
+					],
+					[
+						"man",
+						"AndroidManifest.xml"
+					],
+					[
+						"crea",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"id",
+						"res/values/id.xml"
+					],
+					[
+						"strin",
+						"res/values/strings.xml"
+					],
+					[
+						"listen",
+						"src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java"
+					],
+					[
+						"creat",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"string",
+						"res/values/strings.xml"
+					],
+					[
+						"mani",
+						"AndroidManifest.xml"
+					],
+					[
+						"main",
+						"src/com/dinosaurwithakatana/childcare/MainActivity.java"
+					],
+					[
+						"manif",
+						"AndroidManifest.xml"
+					],
+					[
+						"acma",
+						"res/layout/activity_main.xml"
+					],
+					[
+						"loginac",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"login",
+						"res/layout/loginfragment.xml"
+					],
+					[
+						"actilog",
+						"res/layout/activity_login.xml"
+					],
+					[
+						"person",
+						"res/layout/personal_fragment.xml"
+					],
+					[
+						"exp",
+						"res/layout/experience_fragment.xml"
+					],
+					[
+						"actcr",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"get",
+						"src/com/dinosaurwithakatana/childcare/GetLoginAcct.java"
+					],
+					[
+						"post",
+						"src/com/dinosaurwithakatana/childcare/PostNewAcct.java"
+					],
+					[
+						"acticr",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"job",
+						"src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java"
+					],
+					[
+						"s",
+						"res/values/strings.xml"
+					],
+					[
+						"acc",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"cr",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"acti",
+						"res/layout/activity_login.xml"
+					],
+					[
+						"lo",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"str",
+						"res/values/strings.xml"
+					],
+					[
+						"stirn",
+						"src/com/dinosaurwithakatana/childcare/MainActivity.java"
+					],
+					[
+						"getlogin",
+						"src/com/dinosaurwithakatana/childcare/GetLoginAcct.java"
+					],
+					[
+						"log",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"l",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1598.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"find",
+						"findViewById"
+					],
+					[
+						"confi",
+						"confirmPasswordInput"
+					],
+					[
+						"pass",
+						"passwordInput"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "package com.dinosaurwithakatana.childcare;\n\nimport java.io.UnsupportedEncodingException;\nimport java.security.NoSuchAlgorithmException;\nimport java.util.concurrent.ExecutionException;\n\nimport org.json.JSONArray;\nimport org.json.JSONException;\nimport org.json.JSONObject;\n\nimport android.app.Activity;\nimport android.content.Intent;\nimport android.os.Bundle;\nimport aEXPERIENCEndroid.util.Log;\nimport android.view.View;\nimport android.widget.Button;\nimport android.widget.EditText;\nimport android.widget.ImageButton;\nimport android.widget.Toast;\n\npublic class LoginActivity extends Activity{\n	private static final String TAG = \"Child Care\" +LoginActivity.class.getSimpleName();                                                                                                                  \n	@Override\n	public void onCreate(Bundle savedInstanceState) {\n		super.onCreate(savedInstanceState);\n		setContentView(R.layout.activity_loginlinear);\n\n		final EditText username = (EditText)findViewById(R.id.txtUsernameInput);\n		final EditText password = (EditText)findViewById(R.id.txtPasswordInput);\n\n		Button signIn = (Button) findViewById(R.id.btnSignIn);\n		\n			// TODO Just for now, this way we can skip logging for a bit\n//		Intent i = new Intent(LoginActivity.this,MainActivity.class);\n//		startActivity(i);\n		\n		signIn.setOnClickListener(new View.OnClickListener() {\n\n			\n			@Override\n			public void onClick(View v) {\n				// TODO Auto-generated method stub\n				String loginUsername = username.getText().toString();\n				String loginPassword = null;\n				try {\n					loginPassword = AeSimpleSHA1.SHA1(\"salt\"+password.getText().toString());\n				} catch (NoSuchAlgorithmException e1) {\n					// TODO Auto-generated catch block\n					e1.printStackTrace();\n				} catch (UnsupportedEncodingException e1) {\n					// TODO Auto-generated catch block\n					e1.printStackTrace();\n				}\n\n				Log.v(TAG,\"Logging in with \"+ loginUsername);\n				try {\n					String responseJSON = new GetLoginAcct().execute(loginUsername).get();\n					JSONArray o = new JSONArray(responseJSON);\n					Log.v(TAG,o.toString(1));\n					int responseLength = o.length();\n					Log.v(TAG,\"\"+responseLength);\n\n					JSONObject responseObject = o.getJSONObject(0);\n					Log.v(TAG,responseObject.toString(1));\n\n					if(responseObject.getString(\"username\").equals(loginUsername)){\n						if(responseObject.getString(\"password\").equals(loginPassword)){\n							System.out.println(\"Login Successful!\");\n							Log.d(TAG,\"Login Successful!\");\n							String fName = responseObject.getString(\"f_name\");\n							String mName = responseObject.getString(\"m_name\");\n							String lName = responseObject.getString(\"l_name\");\n							String emailAddress = responseObject.getString(\"email_addr\");\n							String phoneNumber = responseObject.getString(\"phone_number\");\n							String zipCode = responseObject.getString(\"zip\");\n							String userID = responseObject.getString(\"_id\");\n							\n							Toast.makeText(getApplicationContext(), \"Login Successful!\", Toast.LENGTH_SHORT).show();\n							\n							CurrentUser curUser = new CurrentUser(fName,mName,lName,emailAddress,phoneNumber);\n							\n							Intent i = new Intent(LoginActivity.this,MainActivity.class);\n							Bundle b = new Bundle();\n							b.putString(\"fName\", fName);\n							b.putString(\"mName\",mName);\n							b.putString(\"lName\",lName);\n							b.putString(\"email\",emailAddress);\n							b.putString(\"phone\",phoneNumber);\n							b.putString(\"username\", responseObject.getString(\"username\"));\n							b.putString(\"zip\", zipCode);\n							b.putString(\"u_id\", userID);\n							i.putExtras(b);\n							startActivity(i);\n						}\n						else{\n							System.out.println(\"Bad password\");\n							Log.d(TAG,\"Bad Password\");\n							Toast.makeText(getApplicationContext(), \"Bad Password!\",Toast.LENGTH_SHORT).show();\n						}\n					}\n					else{\n						Log.d(TAG,\"Login Unsuccessful\");\n						Toast.makeText(getApplicationContext(), \"Bad Username!\", Toast.LENGTH_SHORT).show();\n					}\n				} catch (InterruptedException e) {\n					// TODO Auto-generated catch block\n					e.printStackTrace();\n				} catch (ExecutionException e) {\n					// TODO Auto-generated catch block\n					e.printStackTrace();\n				} catch (JSONException e) {\n					// TODO Auto-generated catch block\n						Log.d(TAG,\"Login Unsuccessful\");\n						Toast.makeText(getApplicationContext(), \"Bad Username!\", Toast.LENGTH_SHORT).show();\n					e.printStackTrace();\n				}\n\n\n			}\n		});\n		\n		\n\n		Button newUser = (Button) findViewById(R.id.btnNewUser);\n		newUser.setOnClickListener(new View.OnClickListener() {\n\n			@Override\n			public void onClick(View v) {\n				// TODO Auto-generated method stub\n				Intent i = new Intent(LoginActivity.this, CreateAccountActivity.class);\n				startActivity(i);\n\n			}\n		});\n	}\n}",
+					"file": "/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/LoginActivity.java",
+					"file_size": 4715,
+					"file_write_time": 1352653068000000,
+					"settings":
+					{
+						"buffer_size": 4725,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/sublime-android/Android.sublime-build",
+			"command_palette":
+			{
+				"height": 76.0,
+				"selected_items":
+				[
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						":q - quit"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":case",
+						"Convert Case: Upper Case"
+					],
+					[
+						":cas",
+						"Convert Case: Upper Case"
+					],
+					[
+						":ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"or d b",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"origami pan wi fi",
+						"Origami: Create Pane with File Above"
+					],
+					[
+						"or de be",
+						"Origami: Destroy Pane Below"
+					],
+					[
+						"or de le",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"or le",
+						"Origami: Create Pane on the Left"
+					],
+					[
+						"or mv be",
+						"Origami: Move File to Pane Below"
+					],
+					[
+						"ori",
+						"Origami: Create Pane Below"
+					],
+					[
+						"BROW",
+						"Preferences: Browse Packages"
+					],
+					[
+						":Q",
+						"Bracket Highlighter: Swap Quotes"
+					],
+					[
+						"or de ri",
+						"Origami: Destroy Pane on the Right"
+					],
+					[
+						"orig des lef",
+						"Origami: Destroy Pane on the Left"
+					],
+					[
+						"syn jso",
+						"Set Syntax: JSON"
+					],
+					[
+						":iden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":inst",
+						"Package Control: Install Package"
+					],
+					[
+						"or mo be",
+						"Origami: Move File to Pane Below"
+					],
+					[
+						"ori cr bel",
+						"Origami: Create Pane Below"
+					],
+					[
+						":jaa",
+						"Set Syntax: Java"
+					],
+					[
+						":com",
+						"Git: Quick Commit"
+					],
+					[
+						":comm",
+						"Git: Commit"
+					],
+					[
+						":close",
+						"File: Close All"
+					],
+					[
+						"ins	",
+						"Package Control: Install Package"
+					],
+					[
+						"orig mov ri",
+						"Origami: Move File to Pane on the Right"
+					],
+					[
+						"orig cr righ",
+						"Origami: Create Pane on the Right"
+					],
+					[
+						"ori mo rig",
+						"Origami: Move File to Pane on the Right"
+					],
+					[
+						":inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						":key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						":default",
+						"Preferences: Settings - Default"
+					],
+					[
+						":user",
+						"Preferences: Settings - User"
+					],
+					[
+						":rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Vintage.sublime-commands",
+				"/home/vishnu/.config/sublime-text-2/# run_multiple_commands.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/vishnu/Dropbox/Simmons/Resume-RyanEmmettSimmons.txt",
+				"/home/vishnu/qcc.html",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/vintage_commands.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/vintage.py",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Default.sublime-keymap",
+				"/home/vishnu/.config/sublime-text-2/Packages/Vintage/Default (Linux).sublime-keymap",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/AndroidManifest.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/values/strings.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java",
+				"/home/vishnu/Downloads/raw.txt",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/data.json",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_main.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/values/id.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/experience_fragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/loginfragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/LoginActivity.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/AeSimpleSHA1.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/MainActivity.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/ChildrenSelectedListener.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_login.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/personal_fragment.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/res/layout/activity_create_account.xml",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/Password.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/GetLoginAcct.java",
+				"/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/PostNewAcct.java",
+				"/home/vishnu/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/vishnu/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/vishnu/sio_test/app.js",
+				"/home/vishnu/sio_test/index.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"EXPERIENCE",
+					"info",
+					"i",
+					"Prov.",
+					"Sher",
+					"Preferences"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Prov"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/vishnu/Dropbox/Android/GeorgiaChildCare"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/vishnu/Dropbox/Android/GeorgiaChildCare/src/com/dinosaurwithakatana/childcare/LoginActivity.java",
+							"settings":
+							{
+								"buffer_size": 4725,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										356,
+										356
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+									"syntax": "Packages/Java/Java.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 102.0
+			},
+			"output.git":
+			{
+				"height": 102.0
+			},
+			"position": "0,0,0,0,0,0,19,1598,898,1600,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"login",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"cre",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"stin",
+						"res/values/strings.xml"
+					],
+					[
+						"man",
+						"AndroidManifest.xml"
+					],
+					[
+						"crea",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"id",
+						"res/values/id.xml"
+					],
+					[
+						"strin",
+						"res/values/strings.xml"
+					],
+					[
+						"listen",
+						"src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java"
+					],
+					[
+						"creat",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"string",
+						"res/values/strings.xml"
+					],
+					[
+						"mani",
+						"AndroidManifest.xml"
+					],
+					[
+						"main",
+						"src/com/dinosaurwithakatana/childcare/MainActivity.java"
+					],
+					[
+						"manif",
+						"AndroidManifest.xml"
+					],
+					[
+						"acma",
+						"res/layout/activity_main.xml"
+					],
+					[
+						"loginac",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"actilog",
+						"res/layout/activity_login.xml"
+					],
+					[
+						"person",
+						"res/layout/personal_fragment.xml"
+					],
+					[
+						"exp",
+						"res/layout/experience_fragment.xml"
+					],
+					[
+						"actcr",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"get",
+						"src/com/dinosaurwithakatana/childcare/GetLoginAcct.java"
+					],
+					[
+						"post",
+						"src/com/dinosaurwithakatana/childcare/PostNewAcct.java"
+					],
+					[
+						"acticr",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"job",
+						"src/com/dinosaurwithakatana/childcare/JobItemSelectedListener.java"
+					],
+					[
+						"s",
+						"res/values/strings.xml"
+					],
+					[
+						"acc",
+						"res/layout/activity_create_account.xml"
+					],
+					[
+						"cr",
+						"src/com/dinosaurwithakatana/childcare/CreateAccountActivity.java"
+					],
+					[
+						"acti",
+						"res/layout/activity_login.xml"
+					],
+					[
+						"lo",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"str",
+						"res/values/strings.xml"
+					],
+					[
+						"stirn",
+						"src/com/dinosaurwithakatana/childcare/MainActivity.java"
+					],
+					[
+						"getlogin",
+						"src/com/dinosaurwithakatana/childcare/GetLoginAcct.java"
+					],
+					[
+						"log",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					],
+					[
+						"l",
+						"src/com/dinosaurwithakatana/childcare/LoginActivity.java"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
